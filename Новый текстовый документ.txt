@@ -1,0 +1,459 @@
+<ul class="top-main-menu">
+					<li class="top-main-menu-item" id="man">
+						<a href="#" class="top-main-menu-link">
+							<span class="top-main-menu-icon"><img src="image/man.png"></span><br>
+							<span class="top-main-menu-label">общестроительные работы</span>
+						</a>
+					</li>
+					<li class="top-main-menu-item" id="purse">
+						<a href="#" class="top-main-menu-link">
+							<span class="top-main-menu-icon"><img src="image/purse.png"></span><br>
+							<span class="top-main-menu-label">цены</span>
+						</a>
+					</li>
+					<li class="top-main-menu-item" id="percent">
+						<a href="#" class="top-main-menu-link">
+							<span class="top-main-menu-icon"><img src="image/percent.png"></span><br>
+							<span class="top-main-menu-label">акции</span>
+						</a>
+					</li>
+					<li class="top-main-menu-item" id="construction">
+						<a href="#" class="top-main-menu-link">
+							<span class="top-main-menu-icon"><img src="image/construction.png"></span><br>
+							<span class="top-main-menu-label">проекты</span>
+						</a>
+					</li>
+				</ul>
+			</section>
+
+			<section>
+				<ul class="project-list">
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_04.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content left ">
+							<a href="#" class="project-list-link">
+								<h3>393,8м<sup>2</sup><br> 70 000 руб.</h3><br>
+								<p>проект дома<br>40-88L</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_02.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content">
+							<a href="#" class="project-list-link">
+								<h3>288,47м<sup>2</sup><br> 38 000 руб.</h3><br>
+								<p>проект дома<br>57-30CK</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_03.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content">
+							<a href="#" class="project-list-link">
+								<h3>352,56м<sup>2</sup><br> 56 000 руб.</h3><br>
+								<p>проект дома<br>60-3PL</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<div><img src="image/house_04.jpg" class="" alt=""/></div>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content">
+							<a href="#" class="project-list-link">
+								<h3>237,98м<sup>2</sup><br> 45 000 руб.</h3><br>
+								<p>проект дома<br>49-844M</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_04.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content left ">
+							<a href="#" class="project-list-link">
+								<h3>393,8м<sup>2</sup><br> 70 000 руб.</h3><br>
+								<p>проект дома<br>40-88L</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_02.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content">
+							<a href="#" class="project-list-link">
+								<h3>288,47м<sup>2</sup><br> 38 000 руб.</h3><br>
+								<p>проект дома<br>57-30CK</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_03.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content">
+							<a href="#" class="project-list-link">
+								<h3>352,56м<sup>2</sup><br> 56 000 руб.</h3><br>
+								<p>проект дома<br>60-3PL</p>
+							</a>
+						</div>
+					</li>
+
+					<li class="project-list-item">
+						<div class="project-list-image">
+							<a href="#" class="project-list-link">
+							<img src="image/house_04.jpg" class="" alt=""/>
+							</a>
+						</div>
+						<div class="project-list-link project-list-link-cat">
+							<a href="#" class="btn btn-small btn-project-cat">
+							<span class="accessibility">подробнее</span></a>
+						</div>
+						<div class="project-list-content">
+							<a href="#" class="project-list-link">
+								<h3>237,98м<sup>2</sup><br> 45 000 руб.</h3><br>
+								<p>проект дома<br>49-844M</p>
+							</a>
+						</div>
+					</li>
+				</ul>
+
+.project-list {
+  margin: 51px 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden; 
+  width: 100%;
+  display: block;
+}
+.project-list .project-list-item {
+	position: relative;
+	margin: 0;
+	/*margin: 0 0 0.75em;*/
+    /*padding: 0 0.375em;*/
+    width: 24%;
+    float: left;
+}
+.project-list .project-list-item:first-child { margin: 0; float: left; }
+.project-list .project-list-item:last-child { margin: 0; float: right; }
+.project-list .project-list-item:not(:last-child) { padding-right: 10px; }
+
+.project-list .project-list-item:hover .project-list-image a:before { opacity: 0; }
+.project-list .project-list-item:hover .project-list-content { background: #fff; }
+
+.project-list .project-list-image {
+	background-color: #0c1f31;
+    position: relative;    
+}
+.project-list .project-list-image a:before {
+	content: '';
+	display: block;
+	background-color: rgba(0, 0, 0, 0.4);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	-webkit-transition: opacity ease 0.25s;
+	-ms-transition: opacity ease 0.25s;
+	transition: opacity ease 0.25s; 
+ }
+.project-list .project-list-image img { display: block; max-width: 100%; height: 220px; }
+.project-list .project-list-link-cat {
+    left: 0;
+    right: 0;
+    margin-top: -90px;
+    position: absolute;
+    text-align: center;    
+}
+.project-list .project-list-content {
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 10px 25px 25px 10px;
+    text-align: center;
+    -webkit-transition: background ease 0.25s;
+    -ms-transition: background ease 0.25s;
+    transition: background ease 0.25s; 
+	height: 140px;
+}
+.project-list .project-list-content h3 {
+	color: #ac9766;
+	/*text-transform: uppercase;*/
+	font-size: 53px;
+	line-height: 1;
+/*	font-family: "din-condensed-web", sans-serif;*/
+	font-family: 'MyriadPro-Regular';
+	/*letter-spacing: 2px;*/
+	/*font-weight: 400;*/
+}
+
+.project-list .project-list-content:before {
+	content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.project-list .project-list-content a {
+	position: relative;
+	z-index: 20;
+	display: inline-block;
+	vertical-align: middle;
+	width: 95%;
+	margin: 0 auto; 
+	color: #ac9766;
+}
+.project-list .project-list__btn-wrap {
+    position: absolute;
+    bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    padding: 0 1.875em; 
+}
+.project-list .project-list__btn-wrap .btn--news {
+    display: inline-block;
+    margin: 0 auto;
+}
+.btn {
+	display: block;
+	border: 2px solid #ab9767;
+	/*border-width: 2px !important;*/
+	/*text-decoration: none;*/
+	text-align: center;
+	text-transform: uppercase;
+	/*color: #fff;*/
+	font-size: 16px;
+	/*line-height: 1;*/
+	/*font-weight: 700;*/
+	letter-spacing: 1px;
+	padding: 13px 20px;
+	/*width: 100%;*/
+	max-width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-transition: all ease 0.25s !important;
+	-ms-transition: all ease 0.25s !important;
+	transition: all ease 0.25s !important; 
+	font-size: 20px;
+}
+.btn:hover {
+    background-color: #484738;
+    color: #fff;
+    border-color: #fff;
+   /* border-color: #ac9766; */
+}
+/*Main Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="project-list-item">
+
+	<div class="project-list-image">
+
+		<a href="#" class="project-list-link">
+
+			<div style="height: 220px; background-image: url(&quot;image/house_04.jpg&quot;); background-repeat: no-repeat; background-size: cover; background-			position:center center;">
+			</div>
+	
+		</a>
+
+	</div>
+
+
+	<div class="project-list-link project-list-link-cat">
+
+		<a href="#" class="btn btn-small btn-project-cat">
+			<span class="accessibility">подробнее</span></a>
+	</div>
+
+
+	<div class="project-list-content">
+		<a href="#" class="project-list-link">
+<h3>237,98м<sup>2</sup><br> 45 000 руб.</h3><br>
+		
+<p>проект дома<br>49-844M</p>
+								
+		</a>
+
+	</div>
+
+</li>	
+
+.project-list .project-list-item:not(:last-child) {
+    padding-right: 10px;
+}
+.project-list .project-list-item {
+    position: relative;
+    margin: 0;
+    margin: 0 0 0.75em;
+    padding: 0 0.375em;
+    width: 24%;
+    float: left;
+}
+.project-list .project-list-image {
+    background-color: #0c1f31;
+    position: relative;
+}
+a {
+    color: #fff;
+    font-family: 'Circe-ExtraBold';
+    text-decoration: none;
+    -webkit-transition: opacity ease 0.25s;
+    -ms-transition: opacity ease 0.25s;
+    transition: opacity ease 0.25s;
+}
+.project-list .project-list-image a::before {
+    content: '';
+    display: block;
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    -webkit-transition: opacity ease 0.25s;
+    -ms-transition: opacity ease 0.25s;
+    transition: opacity ease 0.25s;
+}
+элемент {
+    height: 220px;
+    background-image: url("image/house_04.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    -moz-backface-visibility: visible;
+    backface-visibility: visible;
+}
+.project-list .project-list-link-cat {
+    left: 0;
+    right: 0;
+    margin-top: -90px;
+    position: absolute;
+    text-align: center;
+}
+.btn {
+    display: block;
+    border: 2px solid #ab9767;
+    border-width: 2px !important;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 13px 20px;
+    width: 100%;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-transition: all ease 0.25s !important;
+    -ms-transition: all ease 0.25s !important;
+    transition: all ease 0.25s !important;
+    font-size: 20px;
+}
+
+.project-list .project-list-content {
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 10px 25px 25px 10px;
+    text-align: center;
+    -webkit-transition: background ease 0.25s;
+    -ms-transition: background ease 0.25s;
+    transition: background ease 0.25s;
+    height: 140px;
+}
+.project-list .project-list-content::before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.project-list .project-list-content a {
+    position: relative;
+    z-index: 20;
+    display: inline-block;
+    vertical-align: middle;
+    width: 95%;
+    margin: 0 auto;
+    color: #ac9766;
+}
+.project-list .project-list-content h3 {
+    color: #ac9766;
+    text-transform: uppercase;
+    font-size: 53px;
+    line-height: 1;
+    font-family: "din-condensed-web", sans-serif;
+    font-family: 'MyriadPro-Regular';
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+.project-list .project-list-content a {
+    color: #ac9766;
+}			

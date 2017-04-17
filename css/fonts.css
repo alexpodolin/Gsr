@@ -1,0 +1,79 @@
+/* font-family: "BebasNeue Bold"; */
+@font-face {    
+	font-family: 'BebasNeueBold';    
+	src: url("../fonts/bebas/BebasNeue Bold.ttf") format("truetype");    
+	font-weight: normal;    
+	font-style: normal;
+}
+/* font-family: "BebasNeue Regular"; */
+@font-face {    
+	font-family: 'BebasNeueRegular';
+	src: url("../fonts/bebas/BebasNeue Regular.ttf") format("truetype"); 
+	font-weight: normal;    
+	font-style: normal;
+}
+
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family: 'Open Sans Semibold';
+	src: url('../fonts/OpenSansSemibold/OpenSans-Semibold.eot?') format("eot"),
+	url("../fonts/OpenSansSemibold/OpenSans-Semibold.woff") format("woff"),
+	url("../fonts/OpenSansSemibold/OpenSans-Semibold.ttf") format("truetype"),
+	url("../fonts/OpenSansSemibold/OpenSans-Semibold.svg#OpenSans-Semibold") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*@font-face {
+    font-family: "Ristretto Pro";
+    src: local("../fonts/RistrettoPro-Regular/RistrettoPro-Regular"), 
+    url("../fonts/RistrettoPro-Regular/Ristrettopro-regular.woff2") format("woff2"), 
+    url("../fonts/RistrettoPro-Regular/Ristrettopro-regular.woff") format("woff"), 
+    url("../fonts/RistrettoPro-Regular/Ristrettopro-regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}*/
+
+
+/* font-family: 'Circe - Extra Bold'; */
+@font-face {    
+	font-family: 'Circe-ExtraBold';
+	src: url("../fonts/Circe - Extra Bold");
+	src: url("../fonts/Circe - Extra Bold/Circe-ExtraBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Circe - Extra Bold/Circe-ExtraBold.woff") format("woff"),
+	url("../fonts/Circe - Extra Bold/Circe-ExtraBold.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadPro-Regular';
+	src: url("../fonts/MyriadPro-Regular");
+	src: url("../fonts/MyriadPro-Regular/MyriadPro-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MyriadPro-Regular/MyriadPro-Regular.woff") format("woff"),
+	url("../fonts/MyriadPro-Regular/MyriadPro-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* font-family: 'Circe Bold'; */
+/*@font-face {    
+	font-family: 'Circe Bold';    
+	src: url("../fonts/circe-bold"), 
+	url("../fonts/circe-bold/CRC65.ttf") format("truetype");    
+	font-weight: normal;    
+	font-style: normal;
+}*/
+
+/* font-family: 'Circe Regular'; */
+/*@font-face {    
+	font-family: 'Circe Regular';    
+	src: url("../fonts/circe-regular"), 
+	url("../fonts/circe-regular/CRC55.ttf") format("truetype");    
+	font-weight: normal;    
+	font-style: normal;
+}*/
+
+
+
